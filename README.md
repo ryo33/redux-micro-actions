@@ -1,1 +1,1 @@
-# MOVED TO [GITLAB](https://github.com/ryo33/redux-micro-actions)
+# MOVED TO [GITLAB](https://gitlab.com/ryo33/redux-micro-actions)
