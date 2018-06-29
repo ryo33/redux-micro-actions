@@ -1,1 +1,1 @@
-# redux-micro-action
+# MOVED TO [GITLAB](https://github.com/ryo33/redux-micro-actions)
